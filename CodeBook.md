@@ -48,7 +48,7 @@ The first column is labelled subject which refers to the subject who performed t
 
 The second column is labelled activity i.e. which activity's measurement is this. 
 
-The rest of the columns names contains the mean of the data as explained in features_info.txt and the units are sameas in features.txt.
+The rest of the columns names contains the mean of the data as explained in feature_info.txt and the units are sameas in feature_info.txt.
 
 #Summary of Transformations
 

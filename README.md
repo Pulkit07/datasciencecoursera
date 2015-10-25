@@ -37,7 +37,7 @@ We have to claculate mean of every column for each combination of activity and s
 The res data frame in the last step is our required tidy data set. We saved it in a file named resdata.txt using write.table() from utils package.
 
 
-##Some important variable names and what they contain:
+##Some important variable names
 
 test :Merged data of test data.
 
